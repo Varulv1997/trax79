@@ -1,38 +1,27 @@
+## S.V.A.
+
+This is an auto generated markdown for an S.V.A. (Svart Mane Asyl) repo.
+
 ---
 
 
-| Option | Description |
+| Role| Creditor |
 | ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Dev| Anas Gamrani |
+| Deployment| --dev via Vercel/Heroku/Netlify and/or AWS/GCP/AZ |
+| Maintaining | -- dev |
 
-
-## Links
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
+## Contribution__
 
 ![Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
-![Dojocat](https://octodex.github.com/images/dojocat.jpg)
+ 
+
+You can contribute to our projects by simply making a pull request : )
 
 
-With a reference later in the document defining the URL location:
+## Join Us__
+
+You can reach to us via our [Slack Workspace](https://join.slack.com/t/svartmaneasyl/shared_invite/zt-g2qhdqkg-wjrpG5KTQbEChPtSMdMu6A )
 
 
-
-## Plugins
-
-The killer feature of ==markdown-it== is very effective support of
-
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-        { some code, part of Definition 2 }
-
+> devbranch channel
