@@ -13,8 +13,7 @@ This is an auto generated markdown for an S.V.A. (Svart Mane Asyl) repo.
 
 ## Contribution__
 
-![Kimonotocat](https://octodex.github.com/images/kimonotocat.png)
- 
+ <img src="https://octodex.github.com/images/kimonotocat.png" alt="Kimonotocat" width="200"/>
 
 You can contribute to our projects by simply making a pull request : )
 
